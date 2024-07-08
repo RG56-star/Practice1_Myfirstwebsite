@@ -6,7 +6,8 @@ body {
     margin: 0;
     padding: 0;
     /* Color de fondo del sitio web */
-    background-color: #f4f4f4;
+    background-image: url(SB.png);
+    background-size: cover;
     text-align: center;
 }
 
@@ -16,7 +17,7 @@ header {
     /* Color de fondo del encabezado */
     background-color: #FFDD45;
     /* Color del texto en el encabezado */
-    color: #fff;
+    color: #ffffff;
     /* Relleno interno del encabezado */
     padding: 1rem 0;
     /* Alineación del texto en el centro */
@@ -48,7 +49,7 @@ nav ul li {
 /* Estilos para los enlaces en la barra de navegación */
 nav ul li a {
     /* Color del texto del enlace */
-    color: #fff;
+    color: #ffffff;
     /* Relleno interno del enlace */
     padding: 0.5rem 1rem;
     /* Elimina el subrayado por defecto */
@@ -67,7 +68,7 @@ footer {
     /* Color de fondo del pie de página */
     background-color: #000099;
     /* Color del texto en el pie de página */
-    color: #fff;
+    color: #ffffff;
     /* Alineación del texto en el centro */
     text-align: center;
     /* Relleno interno del pie de página */
